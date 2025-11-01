@@ -4,8 +4,8 @@ import java.io.*;
 import java.net.*;
 
 public class ClienteChat {
-    private static final String SERVIDOR = "localhost";
-    private static final int PORTA = 12345;
+    private static final String SERVIDOR = "localhost"; // inserir um numero de ip válido
+    private static final int PORTA = 12345; // inserir uma numeração de uma porta tcp válida
 
     public static void main(String[] args) {
         
